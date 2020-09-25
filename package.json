@@ -1,0 +1,23 @@
+{
+  "name": "di",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stbui/di.git"
+  },
+  "author": "stbui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stbui/di/issues"
+  },
+  "homepage": "https://github.com/stbui/di#readme",
+  "devDependencies": {
+    "lerna": "^3.5.1"
+  }
+}
